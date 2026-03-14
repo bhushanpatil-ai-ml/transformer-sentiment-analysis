@@ -1,0 +1,10 @@
+Transformer Evaluation Results:
+eval_loss: 0.349507600069046
+eval_accuracy: 0.838
+eval_precision: 0.8371134020618557
+eval_recall: 0.8302658486707567
+eval_f1: 0.8336755646817249
+eval_runtime: 861.3545
+eval_samples_per_second: 1.161
+eval_steps_per_second: 0.145
+epoch: 1.0

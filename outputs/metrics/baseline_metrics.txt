@@ -1,0 +1,19 @@
+Baseline Model Performance:
+accuracy:  0.8954
+precision: 0.8907
+recall:    0.9014
+f1_score:  0.8960
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.89     12500
+           1       0.89      0.90      0.90     12500
+
+    accuracy                           0.90     25000
+   macro avg       0.90      0.90      0.90     25000
+weighted avg       0.90      0.90      0.90     25000
+
+Confusion Matrix:
+[[11117  1383]
+ [ 1232 11268]]
