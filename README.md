@@ -6,6 +6,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -230,6 +231,10 @@ These metrics help measure model performance and classification quality.
 
 # 🏆 Model Performance
 
+### Confusion Matrix
+
+![Confusion Matrix](outputs/confusion_matrix.png)
+
 Example results:
 
 | Model | Accuracy | F1 Score |
@@ -261,7 +266,16 @@ Predicted Sentiment: Positive
 
 Enter a review: The film was boring and terrible
 Predicted Sentiment: Negative
+
 ```
+
+## Example Prediction
+
+Input:
+"This movie was absolutely fantastic and inspiring!"
+
+Output:
+Sentiment: Positive
 
 ---
 
