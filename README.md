@@ -232,7 +232,7 @@ These metrics help measure model performance and classification quality.
 
 ### Confusion Matrix
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](outputs/plots/confusion_matrix.png)
 
 Example results:
 
