@@ -1,13 +1,30 @@
-venv/
-.vscode/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
 .ipynb_checkpoints/
 
-# Large model artifacts
+# Large ML artifacts
 models/transformer/
 models/transformer/checkpoints/
 *.safetensors
 *.bin
 *.pt
 *.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# datasets
+data/processed/
+*.csv
