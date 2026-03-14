@@ -5,7 +5,6 @@
 ![NLP](https://img.shields.io/badge/NLP-Transformers-orange)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
